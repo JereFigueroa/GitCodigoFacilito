@@ -7,3 +7,10 @@ git checkout
 git reset --soft  //no borra codigo  
 git reset --mixed // avanzado 
 git reset --hard   //borra todo
+
+
+git branch /// mustra las ramas 
+git branch nombre // crea una rama 
+git checkout // moverse en las ramas 
+git branch -d // borra ramas 
+git merge Rama // adiciona toda la rama en la rama que estamos pocicionados 
