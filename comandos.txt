@@ -16,7 +16,8 @@ git branch -d // borra ramas
 git merge Rama // adiciona toda la rama en la rama que estamos pocicionados 
 
 
-git remote add origin <link_github> // conectar con github git remote -v // ver nuestra conexion
+git remote add origin <link_github> // conectar con github 
+git remote -v // ver nuestra conexion
 
 git remote remove origin // eliminar repositorio remoto
 
@@ -33,4 +34,16 @@ git tag -a v1.0 -m "Mensaje" codigoSHA // tag a commit especifico
 
 git push origin v0.1 //Subimos a GitHub nuestro tag
 git push origin --tags
+
+
+
+
+
+
+
+
+
+
+
+
 
